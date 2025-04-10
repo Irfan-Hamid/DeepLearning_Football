@@ -27,7 +27,7 @@ This notebook fine-tunes a **YOLOv8** model for object detection on football mat
 
 ---
 
-### 📘 `Train_KeyPoint_Detector_YOLO.ipynb`
+### `Train_KeyPoint_Detector_YOLO.ipynb`
 This notebook fine-tunes a **YOLOv8** model for keypoint detection on the football pitch.
 
 - Input: The Roboflow 'Football Field Keypoint Detection' dataset mentioned in the 'Datasets section'.
