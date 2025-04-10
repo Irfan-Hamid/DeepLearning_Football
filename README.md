@@ -18,7 +18,7 @@ This project uses two datasets hosted on Roboflow for fine-tuning:
 
 ## Components
 
-### `Train_Object_Detector_YOLO.ipynb`
+### A. `Train_Object_Detector_YOLO.ipynb`
 This notebook fine-tunes a **YOLOv8** model for object detection on football matches.
 
 - Input: The Roboflow 'Football Player Detection' dataset mentioned in the 'Datasets section'.
@@ -27,7 +27,7 @@ This notebook fine-tunes a **YOLOv8** model for object detection on football mat
 
 ---
 
-### `Train_KeyPoint_Detector_YOLO.ipynb`
+### B. `Train_KeyPoint_Detector_YOLO.ipynb`
 This notebook fine-tunes a **YOLOv8** model for keypoint detection on the football pitch.
 
 - Input: The Roboflow 'Football Field Keypoint Detection' dataset mentioned in the 'Datasets section'.
@@ -35,7 +35,7 @@ This notebook fine-tunes a **YOLOv8** model for keypoint detection on the footba
 
 ---
 
-### 🔄 `DeepLearning_Football.ipynb`  
+### C. `DeepLearning_Football.ipynb`  
 This is the core analysis pipeline notebook. It processes football match videos and performs complete scene understanding.
 
 ---
